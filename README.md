@@ -4,15 +4,13 @@ and i would like to
 - go to the seaside
 - and celebrate with friends
 I would also like to start small collaborations with web programmers, I could and would like to be useful and learn more about this world.
-
 # Meine name ist Giovanni
 und ich möchte gerne
 - Ständig lernen und aktualisieren
 - ans Meer fahren
 - und mit Freunden feiern
 Ich würde auch gerne eine kleine Zusammenarbeit mit Webprogrammierern beginnen, ich könnte und würde gerne nützlich sein und mehr über diese Welt lernen.
-
-# Chiamo Giovanni
+# Mi chiamo Giovanni
 e vorrei
 - imparare ed aggiornarmi sempre
 - andare al mare
